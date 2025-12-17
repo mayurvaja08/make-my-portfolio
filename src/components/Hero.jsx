@@ -85,7 +85,7 @@ export default function Hero({ name, role, Color1, setColor1, Color2, setColor2 
           aria-label="Pick color 1"
         />
       </div>
-              <img src="https://i0.wp.com/picjumbo.com/wp-content/uploads/silhouette-of-a-guy-with-a-cap-at-red-sky-sunset-free-image.jpeg?w=600&quality=80" alt="profile" className="w-36 h-36 rounded-full object-cover mx-auto border-2 border-solid border-[#122033]" />
+              <img src="" alt="profile" className="w-36 h-36 rounded-full object-cover mx-auto border-2 border-solid border-[#122033]" />
               <h3 className="text-center mt-4 font-semibold">Frontend Developer</h3>
               <p className="text-center text-xs text-gray-400 mt-2">I design and develop user-centered experiences.</p>
             </div>
