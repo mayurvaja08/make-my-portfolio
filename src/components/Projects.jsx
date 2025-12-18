@@ -21,8 +21,8 @@ export default function Projects({
 
   // Local project array using titles from parent (App.jsx)
   const projects = [
-    { id: 1, title: Title1, image: "/assets/project1.jpg" },
-    { id: 2, title: Title2, image: "/assets/project2.jpg" },
+    { id: 1, title: Title1, image: "/make-my-portfolio/assets/project1.jpg" },
+    { id: 2, title: Title2, image: "/public/assets/project2.jpg" },
     { id: 3, title: Title3, image: "/assets/project3.jpg" },
     { id: 4, title: Title4, image: "/assets/project4.jpg" },
     { id: 5, title: Title5, image: "/assets/project5.jpg" },
