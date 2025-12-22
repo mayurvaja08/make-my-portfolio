@@ -25,7 +25,7 @@ export default function Projects({
     { id: 2, title: Title2, image: "/public/assets/project2.jpg" },
     { id: 3, title: Title3, image: "src/components/wallpaperflare.com_wallpaper (1).jpg" },
     { id: 4, title: Title4, image: "https://media.istockphoto.com/id/882298712/photo/lion-looking-straight-into-the-camera.jpg?s=612x612&w=0&k=20&c=7KIW8DwiyDF2kMlMAQQcByxa4Qwk2xof1Uizb3E4VC8=" },
-    { id: 5, title: Title5, image: "/assets/project5.jpg" },
+    { id: 5, title: Title5, image: "https://wallpapers.com/images/featured/lion-pictures-snw3r6217skr1ni5.jpg" },
     { id: 6, title: Title6, image: "/assets/project6.jpg" }
   ];
 
