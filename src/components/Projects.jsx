@@ -19,7 +19,7 @@ export default function Projects({
   Link6, setLink6,
 }) {
 
-  // Local project array using titles from parent (App.jsx)
+  // Local project array using titles from parent .. (App.jsx)
   const projects = [
     { id: 1, title: Title1, image: "/make-my-portfolio/assets/project1.jpg" },
     { id: 2, title: Title2, image: "/public/assets/project2.jpg" },
