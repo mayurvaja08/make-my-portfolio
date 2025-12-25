@@ -31,7 +31,7 @@ export default function Hero({ name, role, Color1, setColor1, Color2, setColor2 
 
           <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.35 }} className="mt-8 flex gap-4">
             <a href="#contact" className="px-6 py-3 rounded-md neon-btn bg-neonBlue text-black font-semibold">Hire Me</a>
-            <a href="/assets/Resume.pdf" download className="px-6 py-3 rounded-md border border-gray-700 text-gray-200 hover:glow-hover">Download CV</a>
+   <a href="https://mayurvaja08.github.io/make-my-portfolio/assets/Resume.pdf" download className="px-6 py-3 rounded-md border border-gray-700 text-gray-200 hover:glow-hover">Download CV</a>
           </motion.div>
 
           <div className="mt-8 text-sm text-gray-400">Available for freelance and full-time.</div>
